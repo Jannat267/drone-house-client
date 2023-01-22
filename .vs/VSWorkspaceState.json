@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Pages",
+    "\\src\\Pages\\Admin",
+    "\\src\\Pages\\Admin\\AdminRoute",
+    "\\src\\Pages\\Dashboard",
+    "\\src\\Pages\\Dashboard\\DashboardHome",
+    "\\src\\Pages\\HomeSection",
+    "\\src\\Pages\\Shared",
+    "\\src\\Pages\\Shared\\Header"
+  ],
+  "SelectedNode": "\\src\\App.js",
+  "PreviewInSolutionExplorer": false
+}
